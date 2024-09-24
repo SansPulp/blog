@@ -1,0 +1,8 @@
+[submodule "anthonyblog/sanspulp.github.io"]
+	path = anthonyblog/sanspulp.github.io
+	url = https://github.com/SansPulp/sanspulp.github.io
+	branch = main
+[submodule "anthonyblog/public"]
+	path = anthonyblog/public
+	url = https://github.com/SansPulp/sanspulp.github.io
+	branch = main
